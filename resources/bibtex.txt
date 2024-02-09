@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10122024,
+  author={Sundaram, Vani H. and Bhirangi, Raunaq and Rentschler, Mark E. and Gupta, Abhinav and Hellebrekers, Tess},
+  booktitle={2023 IEEE International Conference on Soft Robotics (RoboSoft)}, 
+  title={DragonClaw: A low-cost pneumatic gripper with integrated magnetic sensing}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Medical devices;Magnetic sensors;Thumb;Soft robotics;Robot sensing systems;Rapid prototyping;Distance measurement},
+  doi={10.1109/RoboSoft55895.2023.10122024}}
